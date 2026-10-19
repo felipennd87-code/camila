@@ -1,0 +1,15 @@
+# Material de briefing e skills: fica no repositório, mas não vai para o site
+*.md
+LICENSE*
+directions.json
+evals.json
+heroes.json
+motions.json
+palettes.json
+photos.json
+sections.json
+sites.json
+type.json
+/*.jpg
+/*.png
+/*.mp4
